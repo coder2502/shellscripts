@@ -8,5 +8,6 @@ echo "Hello value of a is $a and value of b is $b"
 echo "value of a is 20"
 echo "value of b is 30"
 echo "hii"
+echo "Hello"
 
 
